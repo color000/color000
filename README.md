@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Stack:
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=wthie"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=wtite"/>
