@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=MoonDongHyun&fontSize=90)
 
-## project
+## roject
 - 😄 22.01 ~ php 쇼핑몰 수정, react 프로젝트 
 - 📫 21.07 ~ 21.12 cafe24 제주항공 제이샵 
 - ⚡ 21.06 ~ 07 KB국민은행 마이데이터 test 
