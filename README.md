@@ -21,15 +21,6 @@ Here are some ideas to get you started:
 //주석 처리 끝-->
 ### Hello FE world 👋
 
-## Project
-- 😄 22.01 ~ php 쇼핑몰 운영, React 프로젝트, 그누보드 홈페이지 작업 - ing
-- 💬 21.11 ~ 21.12 한화보험 여의도 본점 - 보험 랜딩페이지
-- 📫 21.07 ~ 21.12 CAFE24 - BIND STORE, 제주항공제이샵
-- ⚡ 21.06 ~ 07 KB국민은행 여의도 본점 마이데이터 
-- 👯 21.01 ~ 06 K-MOOC(국가평생교육원) - CMS, LMS
-- 🌱 20.11 ~ 12 교보스마일앱 프로토타입
-
-
 ## Stack: 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
@@ -39,3 +30,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=PhpStorm&logoColor=white" />
+
+## Project
+- 😄 22.01 ~ php 쇼핑몰 운영, React 프로젝트, 그누보드 홈페이지 작업 - ing
+- 💬 21.11 ~ 21.12 한화보험 여의도 본점 - 보험 랜딩페이지
+- 📫 21.07 ~ 21.12 CAFE24 - BIND STORE, 제주항공제이샵
+- ⚡ 21.06 ~ 07 KB국민은행 여의도 본점 마이데이터 
+- 👯 21.01 ~ 06 K-MOOC(국가평생교육원) - CMS, LMS
+- 🌱 20.11 ~ 12 교보스마일앱 프로토타입
+
+
+
