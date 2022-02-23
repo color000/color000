@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=PhpStorm&logoColor=white" />
-<img src="https://img.shields.io/badge/Npm-#CB3837?style=flat&logo=Npm&logoColor=white" />
-<img src="https://img.shields.io/badge/Yarn-#2C8EBB?style=flat&logo=Yarn&logoColor=white" />
-<img src="https://img.shields.io/badge/VisualStudioCode-#007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+<img src="https://img.shields.io/badge/Npm-CB3837?style=flat&logo=Npm&logoColor=white" />
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white" />
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 
 ## Project
 - 😄 22.01 ~ php 쇼핑몰 운영, React 프로젝트, 그누보드 홈페이지 작업 - ing
