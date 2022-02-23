@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 <img src="https://img.shields.io/badge/Npm-CB3837?style=flat&logo=Npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white" /><br/>
+
+## Tool: 
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=PhpStorm&logoColor=white" />
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
