@@ -1,6 +1,10 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=MoonDongHyun&fontSize=90)
 
 <!--
+
+//주석 처리 시작
 **color000/color000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=MoonDongHyun&fontSize=90)
+
+//주석 처리 끝-->
 
 ## Project
 - 😄 22.01 ~ php 쇼핑몰 수정, react 프로젝트 
