@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 ### Hello FE world 👋
 
 ## Project
-- 😄 22.01 ~ php 쇼핑몰 수정, react 프로젝트 
-- 📫 21.07 ~ 21.12 cafe24 - BIND STORE, 제주항공제이샵
-- ⚡ 21.06 ~ 07 KB국민은행 마이데이터 test 
-- 👯 21.01 ~ 06 k-mooc(국가평생교육원) 
+- 😄 22.01 ~ php 쇼핑몰 운영, React 프로젝트, 그누보드 홈페이지 작업 - ing
+- 💬 21.11 ~ 21.12 한화보험 여의도 본점 - 보험 랜딩페이지
+- 📫 21.07 ~ 21.12 CAFE24 - BIND STORE, 제주항공제이샵
+- ⚡ 21.06 ~ 07 KB국민은행 여의도 본점 마이데이터 
+- 👯 21.01 ~ 06 K-MOOC(국가평생교육원) - CMS, LMS
 - 🌱 20.11 ~ 12 교보스마일앱 프로토타입
 
 
