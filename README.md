@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## Project
 - 🚀 22.01 ~ php 쇼핑몰 운영, React 프로젝트, 그누보드 홈페이지 작업 - ing
-- 🔥 22.03(예정) 자사홈페이지, 그누보드(AT커뮤니티), awsome_ad
+- 🔥 22.03 자사홈페이지, 그누보드(AT커뮤니티), awsome_ad
 - ✨ 22.02 landing page(샌드랜드), 그누보드, p2pay 어드민, 클라이언트
 - 🌻 22.01 php 쇼핑몰(릴네이처, 주다몰) 운영, landing page(핀박스)
 - 💬 21.11 ~ 12 한화보험 여의도 본점 - 홀인원골프보험, 기계약자보험 등
