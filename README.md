@@ -44,8 +44,9 @@ Here are some ideas to get you started:
 
 ## Project
 - 🚀 22.01 ~ php 쇼핑몰 운영, React 프로젝트, 그누보드 홈페이지 작업 - ing
-- 🔥 22.03 자사홈페이지, 그누보드사이트, awsome_ad
-- ✨ 22.02 landing page, 그누보드, p2pay 어드민, 클라이언트
+- 🔥 22.04 자사홈페이지
+- 🌈 22.03 Vue.js 홈페이지 구축(IH GROUP 호텔), 그누보드 - 구글 서치 콘솔, 네이버 서치어드바이저, 호스팅 <-> 타 도메인 DNS 네임서버, 레코드 변경, 카페24 웹메일호스팅 
+- ✨ 22.02 landing page, p2pay 어드민, 클라이언트
 - 🌻 22.01 php 쇼핑몰 운영
 - 💬 21.11 ~ 12 한화보험 여의도 본점 - 홀인원골프보험, 기계약자보험 등
 - 📫 21.07 ~ 12 CAFE24 - BIND STORE, 제주항공제이샵
