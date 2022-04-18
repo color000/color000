@@ -1,7 +1,7 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=DongHyun%20Moon&fontSize=90)
-
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=DongHyun Moon&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
 <!--
 
 //주석 처리 시작
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Hello FE world 👋
 
 ## Stack: 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=DongHyun Moon&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
+
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
