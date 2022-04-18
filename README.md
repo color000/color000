@@ -1,6 +1,5 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=DongHyun%20Moon&fontSize=90)
 <!--
 
 //주석 처리 시작
