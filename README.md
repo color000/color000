@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 - 🔥 22.04 React 자사 홈페이지 구축(Nettiss) + contact 연락하기 기능(php)
 - 🚀 22.03 Vue.js 홈페이지 구축(IH 호텔), React 사이드 프로젝트, 
 - 🌈 22.03 그누보드 - 구글 서치 콘솔, 네이버 서치어드바이저, 호스팅 <-> 타 도메인 DNS 네임서버, 레코드 변경, 카페24 웹메일호스팅 
-- ✨ 22.02 landing page, p2pay 어드민, 클라이언트
+- ✨ 22.02 landing page
 - 🌻 22.01 php 쇼핑몰 운영
 - 💬 21.11 ~ 12 한화보험 여의도 본점 - 홀인원골프보험, 기계약자보험 등
 - 📫 21.07 ~ 12 CAFE24 - BIND, 제주항공제이샵
