@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 
 
 ## Project
-- 🌱 22.05 명냥 구축
-- 🔥 22.04 React 자사 홈페이지 구축(Nettiss)
+- 🌱 22.05 명냥 구축 + contact 연락하기 기능(php) 카페24 호스팅 MariaDB, SQLyog
+- 🔥 22.04 React 자사 홈페이지 구축(Nettiss) + contact 연락하기 기능(php)
 - 🚀 22.03 Vue.js 홈페이지 구축(IH 호텔), React 사이드 프로젝트, 
 - 🌈 22.03 그누보드 - 구글 서치 콘솔, 네이버 서치어드바이저, 호스팅 <-> 타 도메인 DNS 네임서버, 레코드 변경, 카페24 웹메일호스팅 
 - ✨ 22.02 landing page, p2pay 어드민, 클라이언트
