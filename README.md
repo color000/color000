@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...🔥 최고의 이모티콘 ...
 //주석 처리 끝-->
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=DongHyun Moon&fontSize=90&animation=twinkling&fontAlignY=40"/></div>
 
 ### Hello FE world 👋
