@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 //주석 처리 끝-->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DongHyun Moon%20render&fontSize=90&animation=twinkling&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=DongHyun Moon%20render&fontSize=90" />
 </div>
 
 ### Hello FE world 👋
