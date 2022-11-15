@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ## Tool: 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white" />
-<img src="https://img.shields.io/badge/Interliij-000000?style=flat&logo=PhpStorm&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Interliij-000000?style=flat&logo=Interliij&logoColor=white" /> 
 <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat&logo=PhpStorm&logoColor=white" /> <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
