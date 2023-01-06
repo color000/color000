@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ## Project
 - ✨ 23.1 React Admin 페이지 전체 퍼블리싱 및 api 연결 작업  
  
- *<sub style="color: lightgray;">공통 모달, 비밀번호 표시 눈가림 기능, 파일 업로드 드래그앤 드롭 기능, 체크박스 선택 후 선택된 개수 값 반환 기능 함수를 공통 함수화 작업 등</sub>*
+    *<sub style="color: lightgray;">공통 모달, 비밀번호 표시 눈가림 기능, 파일 업로드 드래그앤 드롭 기능, 체크박스 선택 후 선택된 개수 값 반환 기능 함수를 공통 함수화 작업 등</sub>*
 
 - 🌈 22.12 React, jsp 프론트 ajax로 생성, 수정, 업데이트, 삭제 api 연동 작업
 
