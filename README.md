@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 - 🌈 22.12 React, jsp 프론트 ajax로 생성, 수정, 업데이트, 삭제 api 연동 작업
 
-- 🌱 22.11 React(Spring boot 환경, Restful api 상용 프로젝트) Hook 사용, 사이드 프로젝트 진행(이전직장 디자인 차장님 포트폴리오 페이지 구현)  
+- 🌱 22.11 React(Spring boot 환경, Restful api 상용 프로젝트) Hook 사용, 사이드 프로젝트
 
  *<sub style="color: lightgray;">회원가입, 로그인, 자동로그인, 비밀번호 찾기, 회원가입시 이메일 중복체크, 프로필 및 편집, 레이아웃 분리, 프로젝트 설치, Axios로 api처리,  
 이메일 인증 파라미터 확인 후 api 전송 처리, 발급된 쿠키로 쿠키 확인 처리하여 라우터로 로그인 분기 처리, 비로그인시 화면 처리, 404페이지 처리,  
