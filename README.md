@@ -56,8 +56,7 @@ Here are some ideas to get you started:
 <details>
 <summary>✨ 23.1 ~ 2 칸타르(KANTAR) React Admin 페이지 전체 퍼블리싱 및 api 연결 작업</summary>
     
-   > <sub style="color: lightgray;">
-    전체 리스트 내에 선택된 값에 따라 리스트를 랜더링 해주는 필터 기능,
+   > <sub style="color: lightgray;">전체 리스트 내에 선택된 값에 따라 리스트를 랜더링 해주는 필터 기능,
     api 파일 다운로드,
     사용량 통계,
     멤버 관리,
