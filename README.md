@@ -56,14 +56,14 @@ Here are some ideas to get you started:
 <details>
 <summary>✨ 23.1 ~ 2 칸타르(KANTAR) React Admin 페이지 전체 퍼블리싱 및 api 연결 작업</summary>
     
-   > <sub style="color: lightgray;"> - 전체 리스트 내에 선택된 값에 따라 리스트를 랜더링 해주는 필터 기능,
-    - api 파일 다운로드
-    - 사용량 통계
-    - 멤버 관리
-    - 워드 클라우드
-    - 공통 모달
-    - 비밀번호 표시 눈가림 기능
-    - 파일 업로드 드래그앤 드롭 기능
+   > <sub style="color: lightgray;"> - 전체 리스트 내에 선택된 값에 따라 리스트를 랜더링 해주는 필터 기능<br/>
+    - api 파일 다운로드<br/>
+    - 사용량 통계<br/>
+    - 멤버 관리<br/>
+    - 워드 클라우드<br/>
+    - 공통 모달<br/>
+    - 비밀번호 표시 눈가림 기능<br/>
+    - 파일 업로드 드래그앤 드롭 기능<br/>
     - 체크박스 선택 후 선택된 개수 값 반환 기능 함수를 공통 함수화 작업 등
     </sub>
     
