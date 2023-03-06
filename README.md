@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 
 ## 2022
 <details>
-<summary>- 🌱 22.11 포스텍(EURA) React(Spring boot 환경, Restful api 상용 프로젝트) Hook 사용, 사이드 프로젝트  </summary>
+<summary>🌱 22.11 포스텍(EURA) React(Spring boot 환경, Restful api 상용 프로젝트) Hook 사용, 사이드 프로젝트  </summary>
     
-   - <sub style="color: lightgray;">회원가입, 로그인, 자동로그인, 비밀번호 찾기, 회원가입시 이메일 중복체크, 프로필 및 편집, 레이아웃 분리, 프로젝트 설치, Axios로 api처리,  
+   > <sub style="color: lightgray;">회원가입, 로그인, 자동로그인, 비밀번호 찾기, 회원가입시 이메일 중복체크, 프로필 및 편집, 레이아웃 분리, 프로젝트 설치, Axios로 api처리,  
    이메일 인증 파라미터 확인 후 api 전송 처리, 발급된 쿠키로 쿠키 확인 처리하여 라우터로 로그인 분기 처리, 비로그인시 화면 처리, 404페이지 처리,  
    다중 파일 업로드, 개인화 작업, 추가 퍼블리싱 화면, 날짜관련 정보 상태관리 api 전송, 시작날짜와 종료날짜 사이에 특정요일이 몇개 있는지 계산하는 함수,  
    시작날짜와 종료날짜 사이에 격주단위로(1주 세고 1주 건너뛰고) 특정요일이 몇개 있는지 계산,  
