@@ -47,10 +47,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AdobeXd-FF61F6?style=flat&logo=AdobeXdp&logoColor=white" />
 
 
-
-
-
-## Project
+# Project
 
 ## 2023
 
