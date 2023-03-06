@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 - 🤔 23.03 신용보증기금 예정
 
-<details>
+<details open>
 <summary>✨ 23.1 ~ 2 칸타르(KANTAR) React Admin 페이지 전체 퍼블리싱 및 api 연결 작업</summary>
     
    > <sub style="color: lightgray;"> - 전체 리스트 내에 선택된 값에 따라 리스트를 랜더링 해주는 필터 기능<br/>
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 - 🌈 22.12 ~ 23.1 스마트팜 실증단지 jsp 프론트 ajax로 생성, 수정, 업데이트, 삭제 api 연동 작업
 
 ## 2022
-<details>
+<details open>
 <summary>🌱 22.11 포스텍(EURA) React(Spring boot 환경, Restful api 상용 프로젝트) Hook 사용, 사이드 프로젝트  </summary>
     
    > <sub style="color: lightgray;"> - 회원가입, 
