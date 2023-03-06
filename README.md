@@ -52,12 +52,16 @@ Here are some ideas to get you started:
 
 ## Project
 
+# 2023
+
 - 🤔 23.03 신용보증기금 예정
 
 - ✨ 23.1 ~ 2 칸타르(KANTAR) React Admin 페이지 전체 퍼블리싱 및 api 연결 작업  
     *<sub style="color: lightgray;">전체 리스트 내에 선택된 값에 따라 리스트를 랜더링 해주는 필터 기능, api 파일 다운로드, 사용량 통계, 멤버 관리, 워드 클라우드, 공통 모달, 비밀번호 표시 눈가림 기능, 파일 업로드 드래그앤 드롭 기능, 체크박스 선택 후 선택된 개수 값 반환 기능 함수를 공통 함수화 작업 등</sub>*
 
 - 🌈 22.12 ~ 23.1 스마트팜 실증단지 jsp 프론트 ajax로 생성, 수정, 업데이트, 삭제 api 연동 작업
+
+# 2022
 
 - 🌱 22.11 포스텍(EURA) React(Spring boot 환경, Restful api 상용 프로젝트) Hook 사용, 사이드 프로젝트  
     *<sub style="color: lightgray;">회원가입, 로그인, 자동로그인, 비밀번호 찾기, 회원가입시 이메일 중복체크, 프로필 및 편집, 레이아웃 분리, 프로젝트 설치, Axios로 api처리,  
