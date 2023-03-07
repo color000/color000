@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## 2023
 
-- 🤔 23.03 신용보증기금 예정
+- 🤔 23.03 신용보증기금 ~
 
 <details open>
 <summary>✨ 23.1 ~ 2 칸타르(KANTAR) React Admin 페이지 전체 퍼블리싱 및 api 연결 작업</summary>
