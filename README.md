@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary>🤔 23.03 신용보증기금 소상공인 빅데이터 저장소 / 데이터 승인 관리 사이트 </summary>
+<summary>🤔 23.03 ~ 04 신용보증기금 소상공인 빅데이터 저장소 / 데이터 승인 관리 사이트 </summary>
     
    > <sub style="color: lightgray;"> - 회원 관련 전반적인 기능 (로그인, 로그아웃, 회원가입, 회원탈퇴 등)<br/>
     - 데이터 분석실 예약<br/>
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>✨ 23.1 ~ 2 칸타르(KANTAR) Spring boot 환경, Restful api / 문서 요약 및 리스트 관리 기능 페이지</summary>
+<summary>✨ 23.01 ~ 02 칸타르(KANTAR) Spring boot 환경, Restful api / 문서 요약 및 리스트 관리 기능 페이지</summary>
     
    > <sub style="color: lightgray;"> - 전체 리스트 내에 선택된 값에 따라 리스트를 랜더링 해주는 필터 기능<br/>
     - 필터 프리셋 저장<br/>
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
     
 </details>
 
-- 🌈 22.12 ~ 23.1 스마트팜 실증단지 
+- 🌈 22.12 ~ 23.01 스마트팜 실증단지 
 
 ## 2022
 <details>
