@@ -55,8 +55,7 @@ Here are some ideas to get you started:
 <details>
 <summary>🤔 23.03 신용보증기금 소상공인 빅데이터 저장소 / 데이터 승인 관리 사이트 </summary>
     
-   > <sub style="color: lightgray;">
-    - 회원 관련 전반적인 기능 (로그인, 로그아웃, 회원가입, 회원탈퇴 등)
+   > <sub style="color: lightgray;"> - 회원 관련 전반적인 기능 (로그인, 로그아웃, 회원가입, 회원탈퇴 등)<br/>
     - 데이터 분석실 예약<br/>
     - 가상화 시스템 예약<br/>
     - 공지사항, 문의사항, 자주묻는 질문 등 게시판 리스트<br/>
