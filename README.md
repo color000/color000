@@ -139,6 +139,8 @@ Here are some ideas to get you started:
 ## 2020
 
 - 🌱 20.11 ~ 12 교보스마일앱 프로토타입
+-
+- ~
 
 
 
