@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 
 ## 2023
 
+- 🌱 23.07 ~ 디지털 수업
+- 🔥 23.04 ~ 06 약점공략서 Pro / 문제은행 관리자
 
 <details>
 <summary>🤔 23.03 ~ 04 신용보증기금 소상공인 빅데이터 저장소 / 데이터 승인 관리 사이트 </summary>
