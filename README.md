@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" />
 <img src="https://img.shields.io/badge/AdobeXd-FF61F6?style=flat&logo=AdobeXd&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 
 # Project
 
