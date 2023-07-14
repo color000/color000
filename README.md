@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary>✨ 23.01 ~ 02 칸타르(KANTAR) Spring boot 환경, Restful api / 문서 요약 및 리스트 관리 기능 페이지</summary>
+<summary>✨ 23.01 ~ 02 칸타르(KANTAR) Spring boot 환경, Restful api / 문서 요약 및 리스트 관리 기능 페이지 (다글로 api) </summary>
     
    > <sub style="color: lightgray;"> - 전체 리스트 내에 선택된 값에 따라 리스트를 랜더링 해주는 필터 기능<br/>
     - 필터 프리셋 저장<br/>
