@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Stack: 
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=react-query&logoColor=white" /> <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" /> <img src="https://img.shields.io/badge/reacthookform-EC5990?style=flat&logo=ReactHookForm&logoColor=white" /> <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=ReactRouter&logoColor=white" />
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=react-query&logoColor=white" /> <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" /> <img src="https://img.shields.io/badge/reacthookform-EC5990?style=flat&logo=ReactHookForm&logoColor=white" /> <img src="https://img.shields.io/badge/reactrouter-CA4245?style=flat&logo=ReactRouter&logoColor=white" />
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" />
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
