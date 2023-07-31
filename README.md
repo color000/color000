@@ -55,31 +55,33 @@ Here are some ideas to get you started:
 ## 2023
 
 <summary>🌱 23.07 ~ 디지털 수업 / 문제은행 사용자 화면 웹앱 </summary>
+
    > <sub style="color: lightgray;"> - 로그인 문자발송, 인증코드 입력 후 로그인, 로그인 유지, 인증 상태 유지, 로그인 스플래시 화면<br/>
     - 과제 확인, 달력 생성 및 날짜관리 커스텀, 모바일 기기 swipe시 월 넘기기 및 애니메이션 추가, <br/>
     - 등록, 삭제, 조회 리스트 재갱신 관리<br/>
     </sub>
+    
 </details>
 
 <summary>🔥 23.04 ~ 06 약점공략서 Pro / 문제은행 관리자 </summary>
+
    > <sub style="color: lightgray;"> - 테이블 오름차순 정렬, 내림차순 정렬<br/>
     - 개인 상세 모달<br/>
     - 등록, 삭제, 조회 리스트 재갱신 관리<br/>
     - 로그인, id저장, 자동로그인<br/>
     - 리뷰 상세 보기<br/>
     </sub>
+    
 </details>
 
 <details>
 <summary>🤔 23.03 ~ 04 신용보증기금 소상공인 빅데이터 저장소 / 데이터 승인 관리 사이트 </summary>
-    
    > <sub style="color: lightgray;"> - 회원 관련 전반적인 기능 (로그인, 로그아웃, 회원가입, 회원탈퇴 등)<br/>
     - 데이터 분석실 예약<br/>
     - 가상화 시스템 예약<br/>
     - 공지사항, 문의사항, 자주묻는 질문 등 게시판 리스트<br/>
     - 해당 기능들에 대한 관리자 페이지
     </sub>
-    
 </details>
 
 <details>
