@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 
 ## 2023
 
+<details>
 <summary>🌱 23.07 ~ 디지털 수업 / 문제은행 사용자 화면 웹앱 </summary>
 
    > <sub style="color: lightgray;"> - 로그인 문자발송, 인증코드 입력 후 로그인, 로그인 유지, 인증 상태 유지, 로그인 스플래시 화면<br/>
@@ -63,6 +64,7 @@ Here are some ideas to get you started:
     
 </details>
 
+<details>
 <summary>🔥 23.04 ~ 06 약점공략서 Pro / 문제은행 관리자 </summary>
 
    > <sub style="color: lightgray;"> - 테이블 오름차순 정렬, 내림차순 정렬<br/>
