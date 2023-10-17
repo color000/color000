@@ -56,12 +56,15 @@ Here are some ideas to get you started:
 ## 2023
 
 <details>
-<summary>🌱 23.07 ~ 디지털 수업 / 문제은행 사용자 화면 웹앱 </summary>
+<summary>🌱 23.07 ~ 문제은행 V2 </summary>
 
    > <sub style="color: lightgray;"> - 로그인 문자발송, 인증코드 입력 후 로그인, 로그인 유지, 인증 상태 유지, 로그인 스플래시 화면<br/>
     - 과제 확인, 달력 생성 및 날짜관리 커스텀, 모바일 기기 swipe 감지 기능 <br/>
-    - 출제 문제 및 해설보기,  <br/>
+    - 출제 문제 및 해설보기, 시험지 미리보기, 시험지 출력 <br/>
+    - 성적처리, 성적표, 문자발송 등<br/>
     - 등록, 삭제, 조회 리스트 재갱신 관리<br/>
+    - ApexCharts <br/>
+    - hwp 문제등록 파일 mathJax로 수학 수식 변환 기능 <br/>
     </sub>
     
 </details>
