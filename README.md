@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ## 2023
 
 <details>
-<summary>🌱 23.11 ~ 통합 App (flutter) </summary>
+<summary>⚡ 23.11 ~ 통합 App (flutter) </summary>
 
    > <sub style="color: lightgray;"> - 로그인 문자발송, 로그인 유지, 로그인 스플래시 화면<br/>
     - 오늘의 과제, 평가관리, 학습분석 <br/>
