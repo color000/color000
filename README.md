@@ -25,7 +25,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongHyun%20Moon&fontSize=90" />
 </div>
 
-### Hello FE & BE world 👋
+### Hello world 👋
 
 ## Stack: 
 
