@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...🔥 최고의 이모티콘 ...
 https://emojipedia.org/ko/search?q=phone // 이모지 검색
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" /> 
 //주석 처리 끝-->
 
 <div align="center">
@@ -35,7 +36,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 
 ### A little:
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white" /> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white" /> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white" />
 
 
 ### Tool: 
@@ -49,18 +50,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 ## 2023
 
 <details>
-<summary>📱 23.11 ~ 통합 App (flutter) </summary>
-
-   > <sub style="color: lightgray;"> - 로그인 문자발송, 로그인 유지, 로그인 스플래시 화면<br/>
-    - 오늘의 과제, 평가관리, 학습분석 <br/>
-    - 등하원, 수업일지, 수업료 납부, 학교 급식<br/>
-    - 학원공지, 진도계획표, 학사일정, 직업정보 <br/>
-    </sub>
-    
-</details>
-
-<details>
-<summary>🌱 23.07 ~ 23.11 문제은행 V2 솔루션</summary>
+<summary>🌱 23.07 ~ 23.12 문제은행 V2 솔루션</summary>
 
    > <sub style="color: lightgray;"> - 로그인 문자발송, 인증코드 입력 후 로그인, 로그인 유지, 인증 상태 유지, 로그인 스플래시 화면<br/>
     - 과제 확인, 달력 생성 및 날짜관리 커스텀, 모바일 기기 swipe 감지 기능 <br/>
