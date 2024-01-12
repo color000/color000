@@ -1,5 +1,3 @@
-![image](https://github.com/color000/color000/assets/87681792/ecb2202e-644f-4a41-9287-e5cdf4c7469c)
-
 <!--
 
 //주석 처리 시작
