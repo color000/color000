@@ -71,7 +71,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 </details>
 
 <details>
-<summary>🕊️ 24.01 ~ 24.01 경남교육청 - 아이톡톡 종합 대시보드 admin </summary>
+<summary>🕊️ 24.01 경남교육청 - 아이톡톡 종합 대시보드 admin </summary>
 
  > <sub style="color: lightgray;"> - 지역별 이용 통계 차트, 방문자수 통계, 학교급별 활성화 <br/>
     - 지역의 shp 파일을 QGIS 프로그램으로 json 파일로 변환후 svg로 변환 작업 <br/>
