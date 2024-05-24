@@ -60,7 +60,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 
 
 <details>
-<summary>🌈 24.02 ~ 24.03 경남교육청 - 톡톡클래스, 뉴탭 / 충북교육청 - 다채움 </summary>
+<summary>🌈 24.02 ~ 24.03 충북교육청 - 다채움 / 경남교육청 - 톡톡클래스, 뉴탭 </summary>
 
  > <sub style="color: lightgray;"> - 경남교육청 뉴탭 개인정보 동의, 학적 정보 관리 admin, 개인정보동의 제출한 사용자 리스트 pdf로 개별다운로드, 묶음 다운로드 <br/>
      - 경남교육청 톡톡클래스 디자인 변경 및 유지보수 작업 <br/>
