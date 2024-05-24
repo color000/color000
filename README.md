@@ -48,10 +48,34 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 ## 2024
 
 <details>
-<summary>🕊️ 24.01 ~ </summary>
+<summary>😄 24.04 ~ 24.05 경남교육청 - 학습분석솔루션(LRS) 구축, 톡톡학습분석, 아이북지킴이 유지보수 </summary>
 
-   > <sub style="color: lightgray;"> - <br/>
-    -   <br/>
+ > <sub style="color: lightgray;"> - 학습분석솔루션(LRS) 구축 <br/>
+     - 학습자, 단원&차시, 시간 별 활동 내역 통계 admin <br/>
+     - 일 별 xAPI 데이터 내역 통계, 컨텐츠 수집 데이터 통계 및 xAPI 데이터 통계 리스트 화면 및 정렬, 조건 검색 <br/>
+     - 경남교육청 톡톡학습분석, 아이북지킴이 디자인 변경 및 유지보수 작업 <br/>
+    </sub>
+    
+</details>
+
+
+<details>
+<summary>🌈 24.02 ~ 24.03 경남교육청 - 톡톡클래스, 뉴탭 / 충북교육청 - 다채움 </summary>
+
+ > <sub style="color: lightgray;"> - 경남교육청 뉴탭 개인정보 동의, 학적 정보 관리 admin, 개인정보동의 제출한 사용자 리스트 pdf로 개별다운로드, 묶음 다운로드 <br/>
+     - 경남교육청 톡톡클래스 디자인 변경 및 유지보수 작업 <br/>
+     - 경남교육청 톡톡웹오피스 디자인 변경 및 유지보수 작업 <br/>
+     - 충북교육청 다채움 디자인 변경 및 유지보수 작업 <br/>
+    </sub>
+    
+</details>
+
+<details>
+<summary>🕊️ 24.01 ~ 24.01 경남교육청 - 아이톡톡 종합 대시보드 admin </summary>
+
+ > <sub style="color: lightgray;"> - 지역별 이용 통계 차트, 방문자수 통계, 학교급별 활성화 <br/>
+    - 지역의 shp 파일을 QGIS 프로그램으로 json 파일로 변환후 svg로 변환 작업 <br/>
+    - 해당 지도의 지역을 클릭시 해당 지역에 그래프 노출 기능 및 지역 상세 통계 <br/>
     </sub>
     
 </details>
