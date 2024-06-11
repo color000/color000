@@ -48,11 +48,12 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 ## 2024
 
 <details>
-<summary>💬 24.06 ~ 경남교육청 - AI도움쌤 </summary>
+<summary>💬 24.06 ~ 경남교육청 - AI도움쌤, 뉴탭 </summary>
 
  > <sub style="color: lightgray;"> - AI도움쌤 업로드 모듈 개발 <br/>
      - 톡톡 콘텐츠, 톡톡 교과서, 톡톡 웹오피스 업로드 모듈 개발 <br/>
-     - 하이퍼메타 api, 한컴 api
+     - 하이퍼메타 api, 한컴 api <br/>
+     - 뉴탭 AI 도움쌤 뱃지
     </sub>
     
 </details>
