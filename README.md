@@ -53,7 +53,8 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
  > <sub style="color: lightgray;"> - AI도움쌤 업로드 모듈 개발 <br/>
      - 톡톡 콘텐츠, 톡톡 교과서, 톡톡 웹오피스 업로드 모듈 개발 <br/>
      - 하이퍼메타 api, 한컴 api <br/>
-     - 뉴탭 AI 도움쌤 뱃지
+     - 뉴탭 AI 도움쌤 뱃지 <br/>
+     - 뉴탭 AI 검색 속도 기능 개선 <br/>
     </sub>
     
 </details>
