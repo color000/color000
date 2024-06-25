@@ -93,7 +93,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 </details>
 
 <details>
-<summary>💖 24.01 ~ 문제은행 V2 솔루션 업데이트 </summary>
+<summary>💖 24.01 ~ 24.05 문제은행 V2 솔루션 업데이트 </summary>
 
  > <sub style="color: lightgray;"> - 기존 시험지 이미지로 보여지던 작업 수식변환기 버전으로 변경 작업 <br/>
     - 속도 개선을 위한 메모이제이션 작업 <br/>
