@@ -45,7 +45,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 
 # Project
 
-## 2024
+<!-- ## 2024
 
 <details>
 <summary>💬 24.06 ~ 경남교육청 - AI도움쌤, 뉴탭 </summary>
@@ -103,7 +103,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
     - html 형식 수식편집기에 맞게 변환작업
     </sub>
     
-</details>
+</details> -->
 
 
 ## 2023
