@@ -47,8 +47,23 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 
 ## 2024
 
+
 <details>
-<summary>💬 24.06 ~ 경남교육청 - AI도움쌤, 뉴탭 </summary>
+<summary>🔧 24.07 ~ 24.08 경남교육청, 충북교육청 다채움 - XApi 수집기 추가/수정 및 서비스 유지보수 </summary>
+
+ > <sub style="color: lightgray;"> - Xapi 수집기 수정 및 추가 <br/>
+     - 업로드 기능 종류 추가 <br/>
+     - 뉴탭 위젯, 감정종류 수정 <br/>
+     - LRS 기능 오류 수정 <br/>
+     - 톡톡학습분석 학생 및 학부모 화면 추가 <br/>
+     - 톡톡웹오피스 기능 수정 <br/>
+     - 대시보드 차트 변경 및 파킹페이지 작업 <br/>
+    </sub>
+    
+</details>
+
+<details>
+<summary>💬 24.06 경남교육청 - AI도움쌤, 뉴탭 </summary>
 
  > <sub style="color: lightgray;"> - AI도움쌤 업로드 모듈 개발 <br/>
      - 톡톡 콘텐츠, 톡톡 교과서, 톡톡 웹오피스 업로드 모듈 개발 <br/>
