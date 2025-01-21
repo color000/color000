@@ -84,6 +84,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
      - pem 파일 연동 server.js 사용으로 로컬 환경(hosts)에서 인증서 도메인 사용 설정 <br/>
      - 웹접근성및 호환성 점검 테스트 감리, 보안취약점점검결과 감리 통과 <br/>
      - 테스트 케이스 작성 및 리스트 관리 <br/>
+     - Node JS 20.x, React 18.x, Next.js 14.x, @tanstack/react-query v5, Recoil
     </sub>
     
 </details>
