@@ -24,25 +24,6 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongHyun%20Moon&fontSize=90" />
 </div>
 
-### Hello world 👋
-
-## Stack: 
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white" /> <img src="https://img.shields.io/badge/React-46d5fc?style=flat&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=react-query&logoColor=white" /> <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=recoil&logoColor=white" /> 
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-
-### A little:
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=PHP&logoColor=white" /> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=CodeIgniter&logoColor=white" /> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white" />
-
-
-### Tool: 
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
-<img src="https://img.shields.io/badge/AdobeXd-FF61F6?style=flat&logo=AdobeXd&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
-
 # Project
 
 ### Hello world 👋
