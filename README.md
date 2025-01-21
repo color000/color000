@@ -45,25 +45,6 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 
 # Project
 
-## 2025
-
-<details>
-<summary>✨ 24.08 ~ 25.01 경기도교육청 AI기반 진로.진학교육 지원시스템 (꿈it다) Next.js </summary>
-
- > <sub style="color: lightgray;"> - Next.js 프로젝트 설치 및 세팅 <br/>
-     - 서버 컴포넌트(route api 사용 등) / 클라이언트 컴포넌트 사용
-     - 커리어넷 API, 워크넷 API를 사용하여 진로심리검사 테스트, pdf 미리보기, 심리검사 결과보기 커스텀, AI진로 진학 추천 등 구현 <br/>
-     - 진로흥미탐색, 진로인식검사, 직업적성검사, 직업가치관검사, 직업흥미검사(H), 직업흥미검사(K), 진로성숙도검사, 진로개발역량검사, 청소년 인성검사, 청소년 직업흥미검사(개정), 고등학생 적성검사<br/>
-     - next-auth 사용, 로그인 세션 유지 및 로그아웃 기능 추가 <br/>
-     - 미들웨어 설정, 로그인 한 유저의 권한별 접근 처리 <br/>
-     - 다국어 json 처리 <br/>
-     - 세션정보 클라이언트에서 공통으로 사용할 수 있는 recoil 사용 <br/>
-     - 디지털 원패스 로그인 (oauth2.0) 구현 <br/>
-     - 챗봇, AI모의면접 연동(제네시스랩), AI모의면접 결과 <br/>
-     - pem 파일 연동 server.js 사용으로 로컬 환경(hosts)에서 인증서 도메인 사용 설정 <br/>
-     -ㅁimg src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongHyun%20Moon&fontSize=90" />
-</div>
-
 ### Hello world 👋
 
 ## Stack: 
