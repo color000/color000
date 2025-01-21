@@ -61,7 +61,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
      - 다국어 json 처리 / GoogleTranslate 사용으로 전체 페이지 다국어 처리 구현 <br/>
      - 디지털 원패스 로그인 (oauth2.0) 구현 <br/>
      - 세션정보 클라이언트에서 공통으로 사용할 수 있는 recoil 사용 <br/>
-     - react-query 사용하여 불필요한 데이터 요청 하지 않도록 구현 <br/>
+     - react-query 사용하여 캐싱 처리 및 불필요한 데이터 요청 하지 않도록 구현 <br/>
      - 챗봇, AI모의면접 연동(제네시스랩), AI모의면접 결과 <br/>
      - pem 파일 연동 server.js 사용으로 로컬 환경(hosts)에서 인증서 도메인 사용 설정 <br/>
      - 웹접근성및 호환성 점검 테스트 감리, 보안취약점점검결과 감리 통과 <br/>
