@@ -50,6 +50,16 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 ## 2025
 
 <details>
+<summary>🕊️ 25.02 ~ 충북교육청 다채움 진로진학 </summary>
+
+ > <sub style="color: lightgray;"> - 워크넷 심리검사 진행중
+  
+   </sub>
+    
+</details>
+
+
+<details>
 <summary>✨ 24.09 ~ 25.01 경기도교육청 AI기반 진로.진학교육 지원시스템 (꿈it다) Next.js </summary>
 
  > <sub style="color: lightgray;"> - Next.js 프로젝트 설치 및 세팅 <br/>
