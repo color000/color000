@@ -53,9 +53,8 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 <summary>🕊️ 25.02 ~ 25.03 충북교육청 다채움 진로진학, 경남교육청 뉴탭 학적관리 </summary>
 
  > <sub style="color: lightgray;"> - 워크넷 심리검사 추가 <br/>
-   - 새학기 시작에 맞는 진학관리, 진급 관리 기능 추가 <br/>
-   </sub>
-    
+    - 새학기 시작에 맞는 진학관리, 진급 관리 기능 추가 <br/>
+    </sub>
 </details>
 
 
