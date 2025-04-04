@@ -52,7 +52,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 <details>
 <summary>🔭 25.04 ~ 경남교육청 </summary>
 
- > <sub style="color: lightgray;"> - 경남교육청 톡톡학습분석 - Next.js <br/>
+ > <sub style="color: lightgray;"> - 경남교육청 톡톡학습분석 Next.js <br/>
     - 경남교육청 톡톡학습분석 <br/>
     </sub>
 </details>
@@ -70,7 +70,7 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 
 
 <details>
-<summary>✨ 24.09 ~ 25.01 경기도교육청 AI기반 진로.진학교육 지원시스템 (꿈it다) Next.js </summary>
+<summary>✨ 24.09 ~ 25.03 경기도교육청 AI기반 진로.진학교육 지원시스템 (꿈it다) Next.js </summary>
 
  > <sub style="color: lightgray;"> - Next.js 프로젝트 설치 및 세팅 <br/>
      - 서버 컴포넌트(route api 사용 등) / 클라이언트 컴포넌트 사용
