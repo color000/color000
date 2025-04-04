@@ -50,10 +50,21 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 ## 2025
 
 <details>
-<summary>🕊️ 25.02 ~ 25.03 충북교육청 다채움 진로진학, 경남교육청 뉴탭 학적관리 </summary>
+<summary>🔭 25.04 ~ 경남교육청 </summary>
+
+ > <sub style="color: lightgray;"> - 경남교육청 톡톡학습분석 - Next.js <br/>
+    - 경남교육청 톡톡학습분석 <br/>
+    </sub>
+</details>
+
+<details>
+<summary>🕊️ 25.02 ~ 25.03 충북교육청 다채움 진로진학, 경남교육청 학적관리, 평가지 연동 </summary>
 
  > <sub style="color: lightgray;"> - 워크넷 심리검사 추가 <br/>
     - 새학기 시작에 맞는 진학관리, 진급 관리 기능 추가 <br/>
+    - 경남교육청 톡톡클래스/톡톡콘텐츠 사이트 평가지관리 연동 추가 <br/>
+    - 경남교육청 지원센터 개편 <br/>
+    - 경남교육청 아이톡톡 포털 사이트 구축 <br/>
     </sub>
 </details>
 
