@@ -50,10 +50,10 @@ https://emojipedia.org/ko/search?q=phone // 이모지 검색
 ## 2025
 
 <details>
-<summary>🔭 25.04 ~ 경남교육청 </summary>
+<summary>🔭 25.04 ~ 25.08 경남교육청 4차년도 빅데이터.AI플랫폼 아이톡톡 구축 </summary>
 
- > <sub style="color: lightgray;"> - 경남교육청 톡톡학습분석 Next.js <br/>
-    - 경남교육청 톡톡학습분석 <br/>
+ > <sub style="color: lightgray;"> - 톡톡SEL (vue.js) 유지 관리 및 수정 <br/>
+    - 경기도교육청 (꿈it다) <br/>
     </sub>
 </details>
 
